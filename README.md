@@ -9,3 +9,4 @@ Curso _JavaScript Moderno: Guía para dominar el lenguaje_ de [Fernando Herrera]
 * http://todomvc.com/
 * Template creado por Sindre Sorhus (http://sindresorhus.com/)
 * WebPack
+* Babel
