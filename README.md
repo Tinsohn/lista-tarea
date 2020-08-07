@@ -1,14 +1,11 @@
-# Webpack Starter
+# ToDo List
 
-Este es el proyecto inicial para crear aplicaciones utilizando Webpack.
+Este es un proyecto de práctica de JavaScript.
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
+## Guía del proyecto
+Curso _JavaScript Moderno: Guía para dominar el lenguaje_ de [Fernando Herrera](https://fernando-herrera.com/).
 
-Y para construir el build recuerden:
-```
-npm run build
-```
+## Herramientas y recursos
+* http://todomvc.com/
+* Template creado por Sindre Sorhus (http://sindresorhus.com/)
+* WebPack
